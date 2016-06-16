@@ -6,5 +6,7 @@ public class Hello{
 		// .....................
 		
 		System.out.println("活着的时候，就需要有压力，要不活着跟死人有什么区别呢？");
+		
+		System.out.println("正在努力拼命中，升级版本有压力……");
 	}
 }
