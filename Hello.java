@@ -10,6 +10,8 @@ public class Hello{
 		
 		System.out.println("正在努力拼命中，升级版本有压力……");
 		
+		System.out.println("还没有找到女朋友，心好累！");
+		
 		//打印随机数
 		random();
 	}
